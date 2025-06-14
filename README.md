@@ -17,7 +17,7 @@ It analyzes live traffic, detects protocols, and shows detailed packet contents.
 
 Install requirements:
 ```bash
-pip install -r scapy
+pip install scapy
 ```
 ## ▶️ Usage
 - Run with admin/root privileges:
