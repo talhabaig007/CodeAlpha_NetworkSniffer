@@ -2,14 +2,14 @@
 
 **CyberSniff** is a real-time, cross-platform packet sniffer built in Python using Scapy.  
 It analyzes live traffic, detects protocols, and shows detailed packet contents.
-
+---
 ## ✨ Features
 - Detects TCP, UDP, ICMP and other IP-based packets
 - Displays source/destination IP and protocol
 - Shows payload (if any) in real-time
 - Runs on both Windows and Linux
 - ASCII Art Banner on startup
-
+---
 ## 📦 Requirements
 - Python 3.x
 - [Npcap](https://npcap.com/#download) (for Windows)
@@ -24,6 +24,15 @@ pip install scapy
 ```bash
 python snif.py
 ```
+---
+## 🧰 CyberSniff v1.0 – Features
+- 🔍 Real-Time Packet Sniffing
+- 📡 Protocol Detection
+- 🧾 Source & Destination Tracking
+- 📦 Payload Display
+- 🛠️ Interface Selection
+- 🖥️ Cross-Platform Compatibility
+- 🎨 ASCII Art Banner
 ---
 
 ## 📸 Screenshot
